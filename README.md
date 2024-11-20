@@ -1,5 +1,3 @@
-Here’s the complete `README.md` file in a single block for your Techozon Blog Platform project. You can copy and paste this directly into your `README.md` file:
-
 # Techozon Blog Platform
 
 Welcome to the Techozon Blog Platform! This is a demo project built using **Next.js**, **Tailwind CSS**, and **Firebase Firestore**. It showcases a simple blog application where users can read and explore blog posts.
